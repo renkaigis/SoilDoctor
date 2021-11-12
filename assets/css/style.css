@@ -966,6 +966,10 @@ img {
   padding: 5px;
 }
 
+.team-item-2 .team-inner .team-content .team-social span {
+  text-align: left;
+}
+
 .team-item-2 .team-inner .team-content .team-social a:hover {
   color: #ffb11f !important;
 }
