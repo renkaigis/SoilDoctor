@@ -662,7 +662,7 @@ img {
   height: 100%;
   top: 0;
   left: 0;
-  background: #ffb11f;
+  /* background: #ffb11f; */
   opacity: .80;
   transform: scale(0);
 }
